@@ -49,6 +49,8 @@ a:hover { color: #baf6ff; }
   gap: 9px;
   color: var(--muted);
   font-size: .86rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .language a { color: var(--muted); }
